@@ -1,0 +1,5 @@
+Una vez ponemos un archivo en la carpeta, si nos recibe el commit pues ahora no esta vacia.
+
+¿Por quées importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+Por que github se puede confundir con las distintas versiones del archivo que estamos trabajando.
