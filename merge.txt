@@ -1,0 +1,1 @@
+Una vez ponemos un archivo en la carpeta, si nos recibe el commit pues ahora no esta vacia.
